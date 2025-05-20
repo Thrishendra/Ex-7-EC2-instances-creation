@@ -1,4 +1,4 @@
-# Ex-7-EC2-instances-creation# Ex-04-EC2 Instance Creation
+# Ex-04-EC2 Instance Creation
 
 ## **Aim**
 To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
